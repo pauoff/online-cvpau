@@ -57,81 +57,59 @@ sidebar:
 career-profile:
     title: Experiencia
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Durante mi experiencia en el ámbito de la informática, he tenido la oportunidad de trabajar 
+     en proyectos diversos que abarcan tanto el desarrollo de software como la gestión de sistemas.
+     Uno de los proyectos más significativos en los que participé fue el desarrollo de una aplicación de gestión de inventarios
+     para una empresa de logística. Formé parte de un equipo multidisciplinario, donde fui responsable de la programación del backend, 
+     utilizando tecnologías como Python y bases de datos SQL.
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: DAM
+        university: IES BENIGASLO
+        time: 2024-2026
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+         Estudiar el módulo de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Benigasló ha sido una experiencia enriquecedora y desafiante.
+         A lo largo del curso, he aprendido a trabajar con distintos lenguajes y herramientas de programación,
+         desde Java para el desarrollo en Android hasta bases de datos SQL y noSQL,
+         fundamentales para el manejo y almacenamiento de información en aplicaciones modernas.
+        
 experiences:
-    title: Experiences
+    title: Experiencias
     info:
-      - role: Lead Developer
+      - role: Desarrolladr
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: Betxi, España
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Como desarrollador de software, mi experiencia ha abarcado el ciclo completo de desarrollo,
+          desde la planificación y diseño hasta el despliegue y mantenimiento de aplicaciones.
+          En la fase inicial de los proyectos, trabajo en la definición de los requisitos con clientes o partes interesadas,
+          para asegurar que la solución final cumpla con sus necesidades.
+     ## - role: Senior Software Engineer
+       ## time: 2014 - 2015
+        ## company: Google, London
+        ## details: |
+        ##  Describe your role here lorem ipsum dolor sit amet, consectetuer
+         ## adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+         ## Cum sociis natoque penatibus et magnis dis parturient montes,
+         ## nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          ##pellentesque eu, pretium quis, sem.
+           # - Bullet point
+           # - Bullet point
+      #- role: UI Developer
+       # time: 2012 - 2014
+       # company: Amazon, London
+       # details: |
+       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+         # Cum sociis natoque penatibus et magnis dis parturient montes,
+         # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+         # pellentesque eu, pretium quis, sem.
+          #  - Bullet point
+           # - Bullet point
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
         - name: CV Builder
           start: 2020
@@ -140,20 +118,9 @@ certifications:
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        ##  details: |
+           #
+           
         - name: Git learning
           start: 2019
           end:
@@ -161,64 +128,54 @@ certifications:
           credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+         #details: |
+           
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     BookNest es una plataforma digital diseñada para facilitar el intercambio y la venta de libros entre usuarios de una comunidad.
+     El proyecto se desarrolló usando un stack de tecnologías modernas, incluyendo React para el frontend,
+     Node.js para el backend y MongoDB para el almacenamiento de datos. 
     assignments:
-      - title: Velocity
+      - title: BookNest
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Una plataforma de intercambio de libros que permite a los usuarios listar, buscar e intercambiar libros dentro de su comunidad."
+
+      - title: Velocity
+        link: "#"
+        tagline: "Una plantilla de sitio web adaptable diseñada para ayudar a startups a promocionar, comercializar y vender sus productos."
 
       - title: DevStudio
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Una plantilla adaptable para ayudar a desarrolladores/diseñadores web a promocionar sus servicios."
 
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Una plantilla adaptable diseñada para ayudar a startups a promocionar sus productos o servicios y atraer usuarios e inversores."
 
       - title: Atom
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Una solución completa de plantilla de sitio web para startups/desarrolladores para promocionar sus aplicaciones móviles."
 
 oss:
-    title: OSS Contributions
+    title: Contribuciones a Proyectos de Código Abierto
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     He contribuido en la mejora y optimización del codigo .
     contributions:
-      - title: Tempo
+      - title: BookNest API
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Una API REST para el proyecto BookNest, que permite a los desarrolladores crear integraciones y extensiones para la plataforma de intercambio de libros."
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Un tema adaptable en Bootstrap diseñado para ayudar a desarrolladores de aplicaciones a promocionar sus apps móviles."
+
+     # - title: Delta
+      #  link: "#"
+       # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Publicaciones
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
